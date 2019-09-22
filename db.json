@@ -5,6 +5,38 @@
         "title": "hello"
       }
     ],
+    "todos": [
+        {
+          "userId": 3,
+          "id": 46,
+          "title": "vel voluptatem repellat nihil placeat corporis",
+          "completed": false
+        },
+        {
+          "userId": 3,
+          "id": 47,
+          "title": "nam qui rerum fugiat accusamus",
+          "completed": false
+        },
+        {
+          "userId": 3,
+          "id": 48,
+          "title": "sit reprehenderit omnis quia",
+          "completed": false
+        },
+        {
+          "userId": 3,
+          "id": 49,
+          "title": "ut necessitatibus aut maiores debitis officia blanditiis velit et",
+          "completed": false
+        },
+        {
+          "userId": 3,
+          "id": 50,
+          "title": "cupiditate necessitatibus ullam aut quis dolor voluptate",
+          "completed": true
+        }
+    ],
     "profile": {
       "name": "typicode"
     }
